@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 691fd0ecfc2bd4f5785097d72fdb514e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rock pile falling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27414c1998e3649379a80e94ca3230dd
+      internalID: 24680220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 708
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dda175fb3c1e4b7f8ea2138a00b7792
+      internalID: -8525626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 708
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1484c5550ff4570b900a70d1ca21f3
+      internalID: 2017560303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 708
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de939eccd9734d13807799de04b5c67
+      internalID: 772602354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_4
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 708
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c5c47ddebf4b038ed4853e6efb67f
+      internalID: 983908129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_5
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 708
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6252f06440eeb484e8a3185f3e340eba
+      internalID: 1111349151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_6
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 708
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76746267d0b1e4aacb5f56e7b0758d29
+      internalID: 1132659857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_7
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 708
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f8eb47ce9ff4e8aaa44795aaf1fe05
+      internalID: 418805385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38b5f85b1e2548d89e181a5342732c6
+      internalID: 623208339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 472
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7a2c52e2ef4f5683850f552885e95
+      internalID: 393747044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 472
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e1b3b6765a4087be0ece40d10fc1b
+      internalID: 1171336802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_11
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 472
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff2a618cd50c48418506cc7eba10ad4
+      internalID: -609988240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_12
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 472
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d8f3cd4f3fa4704852141f35792aeb
+      internalID: -3890240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_13
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 472
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6072146e80b4ca4980911dc3427bec
+      internalID: -165838807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_14
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 472
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86ca8ff7606245cb87fd27af8d08846
+      internalID: 1898383249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_15
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 472
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214d8a815f97a4541862d35ccb2d3f6c
+      internalID: -1966610218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fe636c076394323ae61a827771358f
+      internalID: 1759053996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 236
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4410d0d7139a4cd9b67c8e7a8d4d625
+      internalID: 1751235278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 236
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4266da7f5f61416f840325267128eb6
+      internalID: 2007343624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 236
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b26ed340298c4fc88340b022f7a0298
+      internalID: -699237040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_20
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 236
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897ee5cc405854712b6234474a2d4409
+      internalID: -1865519486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_21
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 236
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72cc13afe1a947219e360a12da59b9c
+      internalID: 399098335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_22
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 236
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec59c9ca801243799c2e82a44535e45
+      internalID: -1721809355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_23
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 236
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711e681bf45ef480282e04c40937c502
+      internalID: 1400005006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock pile falling_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 304
+        height: 236
+      alignment: 9
+      pivot: {x: 0.57, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400545ef74fd043089ad66b946b50ce0
+      internalID: 749470055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rock pile falling_3: 772602354
+      Rock pile falling_24: 749470055
+      Rock pile falling_11: -609988240
+      Rock pile falling_23: 1400005006
+      Rock pile falling_4: 983908129
+      Rock pile falling_10: 1171336802
+      Rock pile falling_22: -1721809355
+      Rock pile falling_15: -1966610218
+      Rock pile falling_0: 24680220
+      Rock pile falling_20: -1865519486
+      Rock pile falling_12: -3890240
+      Rock pile falling_16: 1759053996
+      Rock pile falling_5: 1111349151
+      Rock pile falling_9: 393747044
+      Rock pile falling_2: 2017560303
+      Rock pile falling_17: 1751235278
+      Rock pile falling_13: -165838807
+      Rock pile falling_6: 1132659857
+      Rock pile falling_21: 399098335
+      Rock pile falling_8: 623208339
+      Rock pile falling_7: 418805385
+      Rock pile falling_14: 1898383249
+      Rock pile falling_18: 2007343624
+      Rock pile falling_19: -699237040
+      Rock pile falling_1: -8525626
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
